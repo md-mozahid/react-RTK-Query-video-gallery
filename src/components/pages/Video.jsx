@@ -1,5 +1,6 @@
 import { useParams } from 'react-router-dom'
 import { useGetVideoQuery } from '../../features/api/apiSlice'
+import Error from '../ui/Error'
 import DescriptionLoader from '../ui/loaders/DescriptionLoader'
 import PlayerLoader from '../ui/loaders/PlayerLoader'
 import RelatedVideoLoader from '../ui/loaders/RelatedVideoLoader'

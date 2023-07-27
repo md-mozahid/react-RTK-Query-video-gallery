@@ -38,7 +38,7 @@ export default function Form() {
       duration,
       views,
     })
-    // reset()
+    reset()
   }
 
   return (
