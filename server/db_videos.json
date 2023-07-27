@@ -65,28 +65,6 @@
       "views": "2.1k",
       "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
       "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg"
-    },
-    {
-      "id": 7,
-      "title": "Tailwind CSS Tutorial Bangla",
-      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-      "author": "Learn with Sumit",
-      "date": "Oct 15, 2021",
-      "duration": "10:12",
-      "views": "2.1k",
-      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
-      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg"
-    },
-    {
-      "title": "test",
-      "author": "test",
-      "description": "test",
-      "link": "test",
-      "thumbnail": "test",
-      "date": "3",
-      "duration": "4",
-      "views": "5",
-      "id": 8
     }
   ]
 }
