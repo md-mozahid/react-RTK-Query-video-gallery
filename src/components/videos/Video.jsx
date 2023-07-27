@@ -28,7 +28,7 @@ export default function Video({ video }) {
               <p className="text-slate-900 text-sm font-semibold">{title}</p>
             </Link>
             <span className="text-gray-400 text-xs hover:text-gray-600">
-              Learn with Sumit
+              {author}
             </span>
             <p className="text-gray-400 text-xs">
               {views} views . {date}
