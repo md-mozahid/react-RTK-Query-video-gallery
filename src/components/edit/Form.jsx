@@ -121,10 +121,10 @@ export default function Form({ video }) {
             disabled={isLoading}
             type="submit"
             className="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-indigo-500">
-            Save
+            Update
           </button>
         </div>
-        {isSuccess && <Success message="Video was added successfully" />}
+        {isSuccess && <Success message="Video was updated successfully" />}
         {isError && <Error message="There was an error!" />}
       </div>
     </form>
